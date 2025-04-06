@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h2 className={styles.post_cover}>Hello</h2>
+      <h2 className={styles.post_cover}>Hello React</h2>
       <AllPosts/> 
     </>
   )
