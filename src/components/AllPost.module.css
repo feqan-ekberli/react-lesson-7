@@ -1,0 +1,17 @@
+.post_cover{
+    background-color: yellowgreen;
+    padding: 20px;
+}
+
+.post_all{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post_item{
+    width: 25%;
+    margin: 10px;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+}
